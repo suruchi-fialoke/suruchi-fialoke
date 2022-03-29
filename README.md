@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Resting state functional connectivity
 - 📫 How to reach me suruchifialoke@gmail.com
 - https://www.linkedin.com/in/suruchifialoke/
-Legacy Account: https://github.com/SuruchiFialoke
+- Legacy Account: https://github.com/SuruchiFialoke
 <!---
 suruchi-fialoke/suruchi-fialoke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
